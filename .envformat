@@ -1,0 +1,7 @@
+PG_HOST=your postgres host
+PG_PORT=your postgres port
+PG_USER=your postgres user
+PG_PASSWORD=your postgres password
+PG_DBNAME=your postgres dbname
+REDIS_HOST=your redis addr
+REDIS_PASSWORD=your redis password
